@@ -1,0 +1,7 @@
+# Для Jupyter и графиков из следующих этапов лабораторной
+jupyter
+ipykernel
+pandas
+numpy
+matplotlib
+openpyxl
